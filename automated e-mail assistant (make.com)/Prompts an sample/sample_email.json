@@ -1,0 +1,12 @@
+[
+  {
+    "subject": "Double charge on my card",
+    "body": "I was billed twice last month.",
+    "expected_department": "Billing"
+  },
+  {
+    "subject": "App not loading",
+    "body": "I get a blank screen when opening the app.",
+    "expected_department": "Technical Support"
+  }
+]
